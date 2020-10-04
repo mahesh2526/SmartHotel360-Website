@@ -209,8 +209,8 @@ orleans.codegen.cs
 # RIA/Silverlight projects
 Generated_Code/
 
-# Backup & report files from converting an old project file
-# to a newer Visual Studio version. Backup files are not needed,
+# Backup & report files from converting an old project files
+# to a newer Visual Studio version. Backup files aren't need,
 # because we have git ;-)
 _UpgradeReport_Files/
 Backup*/
